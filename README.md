@@ -5,7 +5,7 @@ This is a ReactJS project of a criptocurrency quoter.
 I've used:
 - React
 - Context API
-- Tailwind css
+- Tailwind CSS
 - External API CRIPTOCOMPARE
 
 You can chooose between two FIAT currencies and select one of the TOP 10 Criptocurrencies. The project will give you the quotation now,
